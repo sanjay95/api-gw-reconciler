@@ -1,6 +1,6 @@
 
 
-Let's imagine we have 2 services and 1 central api gateway. We want to make 2 services published on central api gateway on their own respective paths and use authservice as authorizer.
+ Let's imagine we have 2 services and 1 central api gateway. We want to make 2 services published on central api gateway on their own respective paths and use authservice as authorizer.
 
 For each service and api gateway there dedicated account.
 
